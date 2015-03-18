@@ -1,0 +1,5 @@
+en:
+  http_basic_authentication_email_suffix: "Email domain suffix"
+  http_basic_authentication_email_suffix_hint: "e.g. @neopoly.de"
+  http_basic_authentication_logout_title: "Logout"
+  http_basic_authentication_logout_message: "To end your session just close your browser!"

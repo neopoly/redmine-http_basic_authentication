@@ -1,0 +1,5 @@
+<p>
+  <%= label_tag :settings_email_suffix, l(:http_basic_authentication_email_suffix) %>
+  <%= text_field_tag "settings[email_suffix]", @settings["email_suffix"] %>
+  <span class="hint"><%= l(:http_basic_authentication_email_suffix_hint) %></span>
+</p>
