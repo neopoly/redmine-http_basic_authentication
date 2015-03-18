@@ -22,6 +22,14 @@ Restart the Redmine application
 
 No further steps needed
 
+## Testing
+
+No automatic tests, sir! But this Redmine plugin is used in production.
+
+## TODO
+
+* Find a way to test this Redmine plugin
+
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/redmine-http_basic_authentication/fork )
