@@ -1,4 +1,18 @@
+[github]: https://github.com/neopoly/redmine-http_basic_authentication
+[doc]: http://rubydoc.info/github/neopoly/redmine-http_basic_authentication/master/file/README.md
+[gem]: https://rubygems.org/gems/redmine-http_basic_authentication
+[gem-badge]: https://img.shields.io/gem/v/redmine-http_basic_authentication.svg
+[inchpages]: https://inch-ci.org/github/neopoly/redmine-http_basic_authentication
+[inchpages-badge]: https://inch-ci.org/github/neopoly/redmine-http_basic_authentication.svg?branch=master&style=flat
+
 # redmine-http_basic_authentication
+
+[![Gem Version][gem-badge]][gem]
+[![Inline docs][inchpages-badge]][inchpages]
+
+[Gem][gem] |
+[Source][github] |
+[Documentation][doc]
 
 Use HTTP Basic Authentication for login and IMPLICIT registration for your Redmine application
 
