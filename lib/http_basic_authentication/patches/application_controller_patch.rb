@@ -39,7 +39,7 @@ module HttpBasicAuthentication
       end
 
       def email_suffix
-        Setting.plugin_http_basic_authorization["email_suffix"]
+        Setting.plugin_http_basic_authentication["email_suffix"]
       end
     end
   end
