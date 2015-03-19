@@ -35,7 +35,7 @@ module HttpBasicAuthentication
         email = "#{username}#{email_suffix}"
         user = User.new(mail: email, firstname: username, lastname: username)
         user.login = username
-        user.save!
+        user.tap(&:save!)
       end
 
       def email_suffix
